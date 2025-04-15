@@ -111,3 +111,4 @@ subplot(1, 2, 2);
 imshow(uint8(finalDecryptedImage));
 title('Final Decrypted Image');
 disp('Decryption completed.');
+ 
